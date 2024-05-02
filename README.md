@@ -1,2 +1,3 @@
 # Devops-CICD
-This repo is used for the CICD pipeline creation for Jenkins 
+This repo is used for the CICD pipeline creation for Jenkins creation editor 
+
